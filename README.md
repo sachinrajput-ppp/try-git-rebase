@@ -25,3 +25,4 @@
 2. Git
 3. GitHub
 4. Browser Developer Tools
+5. Bash/Terminal
