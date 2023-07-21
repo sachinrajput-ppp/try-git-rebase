@@ -41,3 +41,4 @@
 8. Template Engine - Pug
 9. Winston
 10. Rate Limiter
+11. REST, HTTP, JSON
