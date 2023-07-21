@@ -26,3 +26,4 @@
 3. GitHub
 4. Browser Developer Tools
 5. Bash/Terminal
+6. Office Apps - Word, Excel, PowerPoint
