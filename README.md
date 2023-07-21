@@ -43,3 +43,4 @@
 9. Winston
 10. Rate Limiter
 11. REST, HTTP, JSON
+12. MySQL
