@@ -28,6 +28,7 @@
 5. Bash/Terminal
 6. Office Apps - Word, Excel, PowerPoint
 7. TypeScript
+8. Sublime
 
 # Backend
 
