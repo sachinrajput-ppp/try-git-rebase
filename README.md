@@ -27,6 +27,7 @@
 4. Browser Developer Tools
 5. Bash/Terminal
 6. Office Apps - Word, Excel, PowerPoint
+7. TypeScript
 
 # Backend
 
@@ -39,3 +40,4 @@
 7. Authentication
 8. Template Engine - Pug
 9. Winston
+10. Rate Limiter
