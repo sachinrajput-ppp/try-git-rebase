@@ -8,3 +8,4 @@
 4. Bootstrap
 5. jQuery
 6. Angular
+7. Angular Material
