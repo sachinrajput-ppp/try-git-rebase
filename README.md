@@ -27,3 +27,15 @@
 4. Browser Developer Tools
 5. Bash/Terminal
 6. Office Apps - Word, Excel, PowerPoint
+
+# Backend
+
+1. Frontend
+2. NodeJS
+3. ExpressJS
+4. MongoDB
+5. Mongoose
+6. Multer
+7. Authentication
+8. Template Engine - Pug
+9. Winston
