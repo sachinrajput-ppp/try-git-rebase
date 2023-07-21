@@ -5,3 +5,6 @@
 3. ExpressJS
 4. MongoDB
 5. Mongoose
+6. Multer
+7. Authentication
+8. Template Engine - Pug
