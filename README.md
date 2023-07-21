@@ -45,3 +45,4 @@
 11. REST, HTTP, JSON
 12. MySQL
 13. RabbitMQ
+14. OAuth
