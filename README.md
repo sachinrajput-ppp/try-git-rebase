@@ -28,7 +28,6 @@
 5. Bash/Terminal
 6. Office Apps - Word, Excel, PowerPoint
 7. TypeScript
-8. RabbitMQ
 
 # Backend
 
@@ -44,3 +43,4 @@
 10. Rate Limiter
 11. REST, HTTP, JSON
 12. MySQL
+13. RabbitMQ
