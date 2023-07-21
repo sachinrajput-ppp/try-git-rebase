@@ -9,3 +9,9 @@
 5. jQuery
 6. Angular
 7. Angular Material
+
+## Common
+
+1. VSCode
+2. Git
+3. GitHub
